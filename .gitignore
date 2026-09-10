@@ -1,0 +1,21 @@
+# Compiled binaries
+*.o
+*.exe
+*.out
+*.dSYM/
+fifo
+
+# Build directories
+bin/
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
