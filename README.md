@@ -11,6 +11,17 @@ A command-line program in C that implements the FIFO (First-In, First-Out) / FCF
 - C (standard C99/C11)
 - Standard Library only (stdio.h, stdlib.h, string.h)
 
+## Project Structure
+
+```
+FIFO/
+├── fifo.c          # Complete source code
+├── Makefile        # Build configuration
+├── README.md
+├── LICENSE
+└── .gitignore
+```
+
 ## Getting Started
 
 ### Prerequisites
@@ -49,7 +60,8 @@ P[2]
 Contributions are welcome. Please open an issue or submit a pull request if you have suggestions for improvements.
 
 ## License
-This project is licensed under the MIT License.
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 [Tayeb Bekkouche](https://github.com/tayebg)
