@@ -1,4 +1,4 @@
-# FIFO — CPU Scheduling Simulator
+# FIFO CPU Scheduler — Non-Preemptive Scheduling Simulator
 
 A command-line program in C that implements the FIFO (First-In, First-Out) / FCFS (First-Come, First-Served) non-preemptive CPU scheduling algorithm. This project is designed for educational purposes, particularly for Operating Systems courses.
 
